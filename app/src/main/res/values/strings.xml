@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MVP In Kotlin</string>
+    <string name="submit">Submit</string>
+    <string name="password">Password</string>
+    <string name="user_name">User Name</string>
+</resources>

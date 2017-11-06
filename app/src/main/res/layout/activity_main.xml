@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:layout_margin="16dp"
     android:orientation="vertical"
-    tools:context="com.mvp.kotlin.MainActivity">
+    tools:context="com.mvp.kotlin.view.activities.activities.MainActivity">
 
     <TextView
         android:id="@+id/txtSample"
